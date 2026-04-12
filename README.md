@@ -8,7 +8,7 @@ Its purpose is to educate users about cybersecurity topics such as password safe
 
 The chatbot provides an interactive experience using voice, visuals, and a menu-driven system.
 
----
+
 
 # Features
 
@@ -61,7 +61,7 @@ The chatbot provides an interactive experience using voice, visuals, and a menu-
 * Uses colours, spacing, and borders
 * Improves readability and user experience
 
----
+
 
 # Technologies Used
 
@@ -82,7 +82,7 @@ The chatbot provides an interactive experience using voice, visuals, and a menu-
 3. Build and run the program
 4. Follow the on-screen instructions
 
----
+
 
 # How to Use
 
@@ -116,8 +116,8 @@ This project demonstrates:
 
 #
 
-* Student Name: [Your Name]
-* Course: [Your Course Name]
+* Student Name: [fnanani nelitshindwe]
+* Course: [DISD]
 * Year: 2026
 
 ---
