@@ -1,5 +1,5 @@
 
-[![.NET Build](https://github.com/ST10480209/Cybersecurity_Awareness_Chatbot/actions/workflows/dotnet.yml/badge.svg)](https://github.com/ST10480209/Cybersecurity_Awareness_Chatbot/actions/workflows/dotnet.yml)
+[![.NET Build](https://github.com/funi03/Cybersecurity_Awareness_Chatbot/actions/workflows/dotnet.yml/badge.svg)](https://github.com/funi03/Cybersecurity_Awareness_Chatbot/actions/workflows/dotnet.yml)
 # Cybersecurity_Awareness_Chatbot
 
 
