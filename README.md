@@ -132,6 +132,10 @@ This project demonstrates:
 
 ---
 
+## Screenshot of CI Success
+<img width="1913" height="834" alt="Screenshot 2026-04-13 125121" src="https://github.com/user-attachments/assets/ac90408b-549a-4306-9acf-268a7bdde9f6" />
+
+
 # Note
 
 SecureBot helps users understand basic cybersecurity practices in a simple and interactive way.
